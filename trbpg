@@ -1,0 +1,53 @@
+<!DOCTYPE html5>
+<head><style>
+main {
+padding-top:10px;
+padding-bottom:6px;
+  }
+#title{
+    text-align: center;
+  font-size: 60px;
+color: black;
+ 
+}
+#tribute-info{
+  text-align: center;
+font-size: 40px;
+color: green ;
+ 
+}
+#img-div{
+ 
+text-align: center;
+}
+#image{
+  max-width: 100%;
+         height: auto;
+}
+}
+#img-caption{
+}
+#tribute-link{
+text-align: center;
+}
+body {
+  background-color:;
+}
+</style>
+
+
+</head>
+<body>
+
+  <main style="background-color: gray">
+    <h1 id="title">Albert Einstein</h1>
+    <h3 id="tribute-info" >Absolute Genius</h3>
+   
+  </main>
+  <div id="img-div">
+    <img id="image" src="https://www.thoughtco.com/thmb/vho2C9h01VCmJD-siyEJnx0SRlM=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Albert-Einstein-17e63c6b144145a5812cee64a374ae6b.jpg" alt="image">
+    <p id="img-caption"> Albert Einstein (March 14, 1879–April 18, 1955), a German-born theoretical physicist who lived during the 20th century, revolutionized scientific thought. Having developed the Theory of Relativity, Einstein opened the door for the development of atomic power and the creation of the atomic bomb and the first building block of gravitational field.</p>
+    <a id="tribute-link" href="https://www.thoughtco.com/albert-einstein-1779799" target="_blank">Read more..</a>
+  </div>
+</body>
+
